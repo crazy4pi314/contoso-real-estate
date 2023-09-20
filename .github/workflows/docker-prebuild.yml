@@ -5,6 +5,7 @@ on:
   push:
     branches:
       - "main"
+      - "issue157"
     tags:
       - "v*.*.*"
     pull_requests:
